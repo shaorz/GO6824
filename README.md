@@ -3,7 +3,7 @@ GO DS for 6824 MIT
 Instructions
 http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html
 
-| Date | Location| Plan | Stay |
+| Date | Location| Plan | Commute | Stay |
 | :--: | :--: | :--: | :--: | :--: | 
 | 09.12 |BJ->Irk 8:35|||Irkutsk|
 | 09.13 ||||Irkutsk|
