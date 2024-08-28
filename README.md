@@ -12,10 +12,10 @@ http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html
 | 09.16 |奥利洪岛北线d2|||BaikalWood Eco |
 | 09.17 ||||Irkutsk|
 | 09.18 ||||Irkutsk|
-| 09.19 |Irk->Moscow||||
-| 09.20 |||||
-| 09.21 |||||
-| 09.22 |||||
-| 09.23 |||||
-| 09.24 |||||
+| 09.19 |Irk->Moscow|||Moscow|
+| 09.20 ||||Moscow|
+| 09.21 ||||Moscow|
+| 09.22 ||||Murmansk|
+| 09.23 ||||Murmansk|
+| 09.24 ||||Moscow|
 | 09.25 |Moscow->BJ||||
