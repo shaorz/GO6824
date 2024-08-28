@@ -7,7 +7,7 @@ http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html
 | :--: | :--: | :--: | :--: | :--: | 
 | 09.12 |BJ->Irk 8:35|||Irkutsk|
 | 09.13 ||||Irkutsk|
-| 09.14 ||||Irkutsk|
+| 09.14 ||射击博物馆+大棕熊||Irkutsk|
 | 09.15 |奥利洪岛北线d1|||BaikalWood Eco |
 | 09.16 |奥利洪岛北线d2|||BaikalWood Eco |
 | 09.17 ||||Irkutsk|
@@ -15,7 +15,7 @@ http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html
 | 09.19 |Irk->Moscow|||Moscow|
 | 09.20 ||||Moscow|
 | 09.21 ||||Moscow|
-| 09.22 ||||Murmansk|
-| 09.23 ||||Murmansk|
+| 09.22 ||夜追极光||Murmansk|
+| 09.23 ||夜追极光||Murmansk|
 | 09.24 ||||Moscow|
 | 09.25 |Moscow->BJ||||
