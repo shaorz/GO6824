@@ -12,9 +12,9 @@ http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html
 | 09.16 |奥利洪岛北线d2|||BaikalWood Eco |
 | 09.17 ||||Irkutsk|
 | 09.18 ||||Irkutsk|
-| 09.19 |Irk->Moscow|Kremlin Threatre||Moscow|
-| 09.20 ||||Moscow|
-| 09.21 ||||Moscow|
+| 09.19 |Irk->Moscow|Kremlin Threatre 7PM||Moscow|
+| 09.20 ||Tom Bear||Moscow|
+| 09.21 ||Moscow Threatre 2PM||Moscow|
 | 09.22 ||夜追极光||Murmansk|
 | 09.23 ||夜追极光||Murmansk|
 | 09.24 ||||Moscow|
